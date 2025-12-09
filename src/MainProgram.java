@@ -1,5 +1,4 @@
 // --- Main Execution ---
-//Name : Jovian Aristo Uni
 //NIM : 2802393756
 //discord.gg/reversedrooms
 import java.util.*;
@@ -63,4 +62,5 @@ public class MainProgram {
         // 3. Guest Report (Handled safely without crashing)
         System.out.println("Guest Check-in: " + b.getName());
     }
+
 }
